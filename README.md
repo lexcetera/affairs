@@ -18,7 +18,7 @@ Singh, U. (2023). *Fairs Extramarital Affairs Data* [Data set]. Kaggle. https://
 | **religiousness** | Religiousness level. Coding: 1 = anti, 2 = not at all, 3 = slightly, 4 = somewhat, 5 = very.                                                                                                                  |
 | **education**     | Level of education. Coding: 9 = grade school, 12 = high school graduate, 14 = some college, 16 = college graduate, 17 = some graduate work, 18 = master's degree, 20 = Ph.D., M.D., or other advanced degree. |
 | **occupation**    | Occupation according to Hollingshead classification (reverse numbering)                                                                                                                                       |
-| **rating**        | Self-rating of marriage. Coding: 1 = very unhappy, 2 = somewhat unhappy, 3 = average, 4 = happier than average, 5 = very happy.                                                                               |
+| **happiness**        | Self-rating of marriage. Coding: 1 = very unhappy, 2 = somewhat unhappy, 3 = average, 4 = happier than average, 5 = very happy.                                                                               |
 
 
 # Correlation Skewness Table
