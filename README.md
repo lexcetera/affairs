@@ -4,22 +4,19 @@ An exploratory data analysis project to determine which factors may influence ex
 
 # About the Dataset
 
-The dataset was obtained from Kaggle under "Fair's Affairs Dataset"
+The dataset was obtained from Kaggle under "Fair's Extramarital Affairs Data"
 
-Chong, F. F. (2018). *Fair’s Affairs dataset* [Data set]. Kaggle. https://www.kaggle.com/datasets/clarkchong/fairs-affairs-dataset
-
+Singh, U. (2023). *Fairs Extramarital Affairs Data* [Data set]. Kaggle. https://www.kaggle.com/datasets/utkarshx27/fairs-extramarital-affairs-data
 
 | Variable          | Description                                                                                                                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **affairs**       | How often engaged in extramarital sexual intercourse during the past year?                                                                                                                                    |
-| **gender**        | Gender                                                                                                                                                                                                        |
-| **age**           | Age in years. Coding: 17.5 = under 20, 22 = 20–24, 27 = 25–29, 32 = 30–34, 37 = 35–39, 42 = 40–44, 47 = 45–49, 52 = 50–54, 57 = 55 or over.                                                                   |
+| **happiness**     | Self-reported happiness level (higher = happier)                                                                                                                                                              |
 | **yearsmarried**  | Number of years married. Coding: 0.125 = 3 months or less, 0.417 = 4–6 months, 0.75 = 6 months–1 year, 1.5 = 1–2 years, 4 = 3–5 years, 7 = 6–8 years, 10 = 9–11 years, 15 = 12 or more years.                 |
-
 | **religiousness** | Religiousness level. Coding: 1 = anti, 2 = not at all, 3 = slightly, 4 = somewhat, 5 = very.                                                                                                                  |
-| **education**     | Level of education. Coding: 9 = grade school, 12 = high school graduate, 14 = some college, 16 = college graduate, 17 = some graduate work, 18 = master's degree, 20 = Ph.D., M.D., or other advanced degree. |
+| **age**           | Age in years. Coding: 17.5 = under 20, 22 = 20–24, 27 = 25–29, 32 = 30–34, 37 = 35–39, 42 = 40–44, 47 = 45–49, 52 = 50–54, 57 = 55 or over.                                                                   |
 | **occupation**    | Occupation according to Hollingshead classification (reverse numbering)                                                                                                                                       |
-| **happiness**        | Self-rating of marriage. Coding: 1 = very unhappy, 2 = somewhat unhappy, 3 = average, 4 = happier than average, 5 = very happy.                                                                               |
+| **education**     | Level of education. Coding: 9 = grade school, 12 = high school graduate, 14 = some college, 16 = college graduate, 17 = some graduate work, 18 = master's degree, 20 = Ph.D., M.D., or other advanced degree. |
 
 
 # Correlation Skewness Table
