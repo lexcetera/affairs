@@ -11,3 +11,6 @@ Chong, C. (n.d.). *Fair’s Affairs dataset* [Data set]. Kaggle. https://www.kag
 
 ![Correlation Plot](plots/correlation_plot_image.png)
 
+# The Findings
+
+Based on the exploratory analysis of the Fair’s Affairs Dataset, several factors were examined for their association with the likelihood of extramarital affairs. The strongest relationships were observed with happiness (negative) and years married (positive), suggesting that lower happiness and longer marriages led to a higher likelihood of engaging in extramarital affairs. Religiousness also had a negative effect suggesting that more religious people tend to be faithful. Age, on the other hand, showed moderate (positive) influence, while occupation and education had minimal effect. Overall, the analysis highlights that personal satisfaction and marital duration are key factors associated with extramarital behavior.
