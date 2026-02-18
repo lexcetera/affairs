@@ -4,4 +4,4 @@ An exploratory data analysis project to determine which factors may influence ex
 
 # The Correlation Plot
 
-![Correlation Plot](plots/correlation_plot.png)
+![Correlation Plot](plots/correlation_plot_image.png)
