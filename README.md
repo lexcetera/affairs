@@ -6,6 +6,18 @@ The dataset was obtained from Kaggle under "Fair's Affairs Dataset."
 
 Chong, C. (n.d.). *Fair’s Affairs dataset* [Data set]. Kaggle. https://www.kaggle.com/datasets/clarkchong/fairs-affairs-dataset
 
+# Correlation Skewness Table
+
+| Feature       | abs_correlation | Effect   |
+|---------------|----------------|----------|
+| happiness     | 0.279512       | negative |
+| yearsmarried  | 0.186842       | positive |
+| religiousness | 0.144501       | negative |
+| age           | 0.095237       | positive |
+| occupation    | 0.049612       | positive |
+| education     | 0.002437       | negative |
+
+
 
 # The Correlation Plot
 
