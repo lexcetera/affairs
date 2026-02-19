@@ -19,7 +19,15 @@ Singh, U. (2023). *Fairs Extramarital Affairs Data* [Data set]. Kaggle. https://
 | **education**     | Level of education. Coding: 9 = grade school, 12 = high school graduate, 14 = some college, 16 = college graduate, 17 = some graduate work, 18 = master's degree, 20 = Ph.D., M.D., or other advanced degree. |
 
 
-# Correlation Skewness Table
+# Correlation and Direction
+
+Correlation shows how strongly and in what direction two variables are related. In this project, we used the Pearson correlation coefficient:
+
+![Correlation Formula](formula.jpg)
+
+to measure how each feature relates to the likelihood of extramarital affairs. Positive correlations indicate that higher values of a feature are associated with a higher likelihood of affairs, while negative correlations indicate the opposite. The table below summarizes the absolute correlation values and their directions for each feature considered in the analysis.
+
+The table below presents the absolute correlation values and their directions for each feature considered in the analysis, providing a clear view of which factors are most strongly associated with extramarital behavior.
 
 | Feature       | abs_correlation | Effect   |
 |---------------|----------------|----------|
