@@ -21,7 +21,7 @@ Singh, U. (2023). *Fairs Extramarital Affairs Data* [Data set]. Kaggle. https://
 
 # Correlation and Direction
 
-Correlation shows how strongly and in what direction two variables are related. In this project, we used the Pearson correlation coefficient:
+Correlation shows how strongly and in what direction two variables are related. In this project, the Pearson correlation coefficient was used with the following formula:
 
 ![Correlation Formula](formula.jpg)
 
@@ -41,6 +41,8 @@ The table below presents the absolute correlation values and their directions fo
 
 
 # The Correlation Plot
+
+The correlation plot provides a visual summary of how each feature is associated with the likelihood of extramarital affairs. By plotting the absolute correlation values for features such as happiness, years married, religiousness, age, occupation, and education, we can quickly identify which factors have the strongest linear relationships with affairs. Positive correlations indicate that higher values of a feature are associated with a higher likelihood of affairs, while negative correlations indicate the opposite. The plot allows us to visually compare the strength and direction of each relationship, highlighting the most influential factors at a glance and providing insight into patterns that may not be immediately evident from the raw data alone.
 
 ![Correlation Plot](plots/correlation_plot_image.png)
 
